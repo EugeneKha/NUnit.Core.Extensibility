@@ -1,0 +1,2 @@
+RetryTestAddin reruns test in case it is failed. 
+It may be useful when doing functional testing to deal with unstable tests and unstable environment.
